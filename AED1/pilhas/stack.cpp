@@ -3,9 +3,6 @@
 
 using namespace std;        
 
-
-
-
    
      Stack::Stack(){  // construtora
         top = 0;
