@@ -1,7 +1,7 @@
 
 # Implementação Algoritmos de Ordenação
 
-Esse repositorio visa mostrar um pouco das atividades desenvolvidas para a matéria presente no Curso de Ciência da Computação, **Introdução a Computação II**, oferecido pela Universidade de São Paulo - USP | RP.
+Este repositório visa mostrar um pouco das atividades desenvolvidas para a disciplina de **Introdução à Computação II** do curso de Ciência da Computação oferecido pela Universidade de São Paulo - USP | RP.
 
 ## 🛠 Habilidades
 - | C++ |  
